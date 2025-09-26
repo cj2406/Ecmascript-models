@@ -1,3 +1,7 @@
+//Arrow Functions are a shorter method for regular functions
+// they can be stored in variales and require less syntax but
+// do not allow HOISTING unlike rehgular functions.
+
 //a basic arrow function ,saved within a variable
 let displayGrades= ()=>{
     let grades=['A'];

@@ -1,3 +1,6 @@
+    //Array methods are predefined functions which are
+    //native to an array
+    
     let nums=[11,12,14,13,15,17,18,19];
 
     //the map() method

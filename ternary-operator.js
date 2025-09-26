@@ -1,3 +1,4 @@
+//tenary operators are alternative to if,else statements
 //I'll go through the three known ternary operators
 
 

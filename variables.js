@@ -9,6 +9,8 @@ let object={
     name:"emeka",
     job:"student"
 }
+//strings
+let string =["Mary"]
 //displaying the values
 console.log(PI);
 console.log(object);

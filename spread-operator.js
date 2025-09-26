@@ -1,4 +1,8 @@
-//the spread operator
+//The spread operator (...)
+/*
+It’s used to expand (spread out) elements of an array, object,
+ or iterable into individual elements.
+ */
 const arr1=[1,2,3,4,5];
 const arr2=[6,7,8,9,10];
 
