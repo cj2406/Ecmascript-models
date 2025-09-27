@@ -18,14 +18,14 @@ class Person {
 
 }
 
-// Creating objects (instances)
+// Creating objects (instances of a class)
 const person1 = new Person("mirabel", 25);
 person1.greet();  // Hello, my name is mirabel and I’m 25 years old.
 
 
 
 //In classes we have what we call Inheritance where a class gets a property or
-//  method from its parent class
+//  method from its parent class it uses the EXTENDS keyword 
 
 class People extends Person {
   constructor(name, age) {
@@ -40,7 +40,9 @@ class People extends Person {
 }
 
 const person2 = new People("mary", 19);
+//i acces  the methods below
 person2.greet(); // Hello, my name is mary and I’m 19 years old.
 person2.shout(); // Hey!!!
+
 
 
